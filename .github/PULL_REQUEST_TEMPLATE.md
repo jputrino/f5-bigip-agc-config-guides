@@ -1,7 +1,7 @@
 [tag a reviewer]
 @<reviewer_id>
 
-#### What issue())s does this address?
+#### What issue(s) does this address?
 Fixes #<issueid>
 WIP #<issueid>
 
