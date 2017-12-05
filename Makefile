@@ -5,8 +5,8 @@
 SPHINXOPTS    =
 SPHINXBUILD   = python -msphinx
 SPHINXPROJ    = BIG-IP_AGC_ConfigGuides
-SOURCEDIR     = source
-BUILDDIR      = build
+SOURCEDIR     = docs/source
+BUILDDIR      = docs/_build
 
 # Put it first so that "make" without argument is like "make help".
 help:
@@ -44,21 +44,18 @@ livedocs:
 .PHONY: testdocs
 testdocs:
 	rm -rf $(BUILDDIR)
-	./scripts/merge-docs.sh
 	./scripts/test-docs.sh
 
 # one-time html build using a docker container
 .PHONY: docker-docs
 docker-docs:
 	rm -rf $(BUILDDIR)
-	./scripts/merge-docs.sh
-	./scripts/docker-docs.sh make html
+	./scripts/docker-docs.sh make docs
 
 # Build live preview of docs in a docker container
 .PHONY: docker-livedocs
 docker-livedocs:
 	rm -rf $(BUILDDIR)
-	./scripts/merge-docs.sh
 	DOCKER_RUN_ARGS="-p 127.0.0.1:8000:8000" \
 		./scripts/docker-docs.sh make livedocs
 
@@ -66,5 +63,4 @@ docker-livedocs:
 .PHONY: docker-testdocs
 docker-testdocs:
 	rm -rf $(BUILDDIR)
-	./scripts/merge-docs.sh
 	./scripts/docker-docs.sh ./scripts/test-docs.sh

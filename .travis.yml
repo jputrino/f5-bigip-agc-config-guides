@@ -1,7 +1,4 @@
 sudo: required
-env:
-  global:
-    - BUILD_HTML_DIR=${TRAVIS_BUILD_DIR}/build/html
 language:
 - python
 services:
