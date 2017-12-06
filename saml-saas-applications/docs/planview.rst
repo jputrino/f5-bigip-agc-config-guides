@@ -61,7 +61,7 @@ Deploy the Configuration
 Setup Planview as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to Planview documentation to set it up SAML Service Provider.
+Refer to Planview documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------

@@ -61,7 +61,7 @@ Deploy the Configuration
 Setup Catchpoint as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to Catchpoint documentation to set it up SAML Service Provider.
+Refer to Catchpoint documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------

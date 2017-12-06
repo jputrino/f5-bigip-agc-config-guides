@@ -61,7 +61,7 @@ Deploy the Configuration
 Setup Adobe Sign (formerly Echosign) as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to Adobe Sign (formerly Echosign) documentation to set it up SAML Service Provider.
+Refer to Adobe Sign (formerly Echosign) documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------

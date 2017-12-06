@@ -60,7 +60,7 @@ Deploy the Configuration
 Setup Dropbox as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to Dropbox documentation to set it up SAML Service Provider.
+Refer to Dropbox documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------

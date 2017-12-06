@@ -60,7 +60,7 @@ Deploy the Configuration
 Setup Projectplace as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to Projectplace documentation to set it up SAML Service Provider.
+Refer to Projectplace documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------

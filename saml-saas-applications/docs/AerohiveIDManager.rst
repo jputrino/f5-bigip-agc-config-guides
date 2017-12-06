@@ -61,7 +61,7 @@ Deploy the Configuration
 Setup Aerohive IDManager as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to Aerohive IDManager documentation to set it up SAML Service Provider.
+Refer to Aerohive IDManager documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------

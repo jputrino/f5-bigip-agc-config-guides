@@ -61,7 +61,7 @@ Deploy the Configuration
 Setup HostAnalytics as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to HostAnalytics documentation to set it up SAML Service Provider.
+Refer to HostAnalytics documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------

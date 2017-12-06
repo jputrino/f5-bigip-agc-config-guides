@@ -62,7 +62,7 @@ Deploy the Configuration
 Setup Sprinklr as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to Sprinklr documentation to set it up SAML Service Provider.
+Refer to Sprinklr documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------

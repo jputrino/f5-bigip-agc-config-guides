@@ -60,7 +60,7 @@ Deploy the Configuration
 Setup DivvyHQ as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to DivvyHQ documentation to set it up SAML Service Provider.
+Refer to DivvyHQ documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------

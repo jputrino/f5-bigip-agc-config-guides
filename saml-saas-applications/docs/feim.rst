@@ -61,7 +61,7 @@ Deploy the Configuration
 Setup First Eagle Investment Management as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to First Eagle Investment Management documentation to set it up SAML Service Provider.
+Refer to First Eagle Investment Management documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------

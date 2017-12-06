@@ -61,7 +61,7 @@ Deploy the Configuration
 Setup Zendesk as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to Zendesk documentation to set it up SAML Service Provider.
+Refer to Zendesk documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------

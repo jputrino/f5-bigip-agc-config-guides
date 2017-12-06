@@ -61,7 +61,7 @@ Deploy the Configuration
 Setup Sumo Logic as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to Sumo Logic documentation to set it up SAML Service Provider.
+Refer to Sumo Logic documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------

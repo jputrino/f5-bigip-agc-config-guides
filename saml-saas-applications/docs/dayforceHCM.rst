@@ -60,7 +60,7 @@ Deploy the Configuration
 Setup Dayforce HCM as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to Dayforce HCM documentation to set it up SAML Service Provider.
+Refer to Dayforce HCM documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------

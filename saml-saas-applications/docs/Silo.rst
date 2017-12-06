@@ -61,7 +61,7 @@ Deploy the Configuration
 Setup Silo Authentic8 as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to Silo Authentic8 documentation to set it up SAML Service Provider.
+Refer to Silo Authentic8 documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------

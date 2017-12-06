@@ -61,7 +61,7 @@ Deploy the Configuration
 Setup Oracle CRM onDemand as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to Oracle CRM onDemand documentation to set it up SAML Service Provider.
+Refer to Oracle CRM onDemand documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------

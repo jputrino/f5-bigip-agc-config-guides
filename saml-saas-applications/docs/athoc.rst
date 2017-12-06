@@ -60,7 +60,7 @@ Deploy the Configuration
 Setup AtHoc Services as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to AtHoc Services documentation to set it up SAML Service Provider.
+Refer to AtHoc Services documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------

@@ -60,7 +60,7 @@ Deploy the Configuration
 Setup Smart Sheet as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to Smart Sheet documentation to set it up SAML Service Provider.
+Refer to Smart Sheet documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------

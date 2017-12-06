@@ -60,7 +60,7 @@ Deploy the Configuration
 Setup Atlassian as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to Atlassian documentation to set it up SAML Service Provider.
+Refer to Atlassian documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------

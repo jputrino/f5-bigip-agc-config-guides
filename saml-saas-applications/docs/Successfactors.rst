@@ -62,7 +62,7 @@ Deploy the Configuration
 Setup SAP Successfactors as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to SAP Successfactors documentation to set it up SAML Service Provider.
+Refer to SAP Successfactors documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------

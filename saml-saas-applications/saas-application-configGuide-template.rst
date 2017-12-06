@@ -60,7 +60,7 @@ Deploy the Configuration
 Setup $TEMPLATE_LABEL$ as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to $TEMPLATE_LABEL$ documentation to set it up SAML Service Provider.
+Refer to $TEMPLATE_LABEL$ documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------

@@ -61,7 +61,7 @@ Deploy the Configuration
 Setup LinkedIn Learning as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to LinkedIn Learning documentation to set it up SAML Service Provider.
+Refer to LinkedIn Learning documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------

@@ -61,7 +61,7 @@ Deploy the Configuration
 Setup CMO Compliance as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to CMO Compliance documentation to set it up SAML Service Provider.
+Refer to CMO Compliance documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------

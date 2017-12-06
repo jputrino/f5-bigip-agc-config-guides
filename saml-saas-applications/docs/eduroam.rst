@@ -60,7 +60,7 @@ Deploy the Configuration
 Setup Eduroam as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to Eduroam documentation to set it up SAML Service Provider.
+Refer to Eduroam documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------

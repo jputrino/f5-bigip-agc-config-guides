@@ -61,7 +61,7 @@ Deploy the Configuration
 Setup Clinical Conductor as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to Clinical Conductor documentation to set it up SAML Service Provider.
+Refer to Clinical Conductor documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------

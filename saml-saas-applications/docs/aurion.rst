@@ -62,7 +62,7 @@ Deploy the Configuration
 Setup Aurion as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to Aurion documentation to set it up SAML Service Provider.
+Refer to Aurion documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------

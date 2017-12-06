@@ -62,7 +62,7 @@ Deploy the Configuration
 Setup Community 360 as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to Community 360 documentation to set it up SAML Service Provider.
+Refer to Community 360 documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------

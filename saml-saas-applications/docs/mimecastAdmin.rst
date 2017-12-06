@@ -62,7 +62,7 @@ Deploy the Configuration
 Setup Mimecast (Admin) as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to Mimecast (Admin) documentation to set it up SAML Service Provider.
+Refer to Mimecast (Admin) documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------

@@ -61,7 +61,7 @@ Deploy the Configuration
 Setup Heroku as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to Heroku documentation to set it up SAML Service Provider.
+Refer to Heroku documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------

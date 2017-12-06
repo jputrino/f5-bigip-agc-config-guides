@@ -63,7 +63,7 @@ Deploy the Configuration
 Setup Google Suite as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to Google Suite documentation to set it up SAML Service Provider.
+Refer to Google Suite documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------

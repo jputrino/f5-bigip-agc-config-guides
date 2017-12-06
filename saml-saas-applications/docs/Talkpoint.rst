@@ -60,7 +60,7 @@ Deploy the Configuration
 Setup Talkpoint webcasts as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to Talkpoint webcasts documentation to set it up SAML Service Provider.
+Refer to Talkpoint webcasts documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------

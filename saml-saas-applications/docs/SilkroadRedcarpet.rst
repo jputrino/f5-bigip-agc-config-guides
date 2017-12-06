@@ -61,7 +61,7 @@ Deploy the Configuration
 Setup Silkroad Redcarpet as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to Silkroad Redcarpet documentation to set it up SAML Service Provider.
+Refer to Silkroad Redcarpet documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------

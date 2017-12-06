@@ -62,7 +62,7 @@ Deploy the Configuration
 Setup Thirdlight as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to Thirdlight documentation to set it up SAML Service Provider.
+Refer to Thirdlight documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------

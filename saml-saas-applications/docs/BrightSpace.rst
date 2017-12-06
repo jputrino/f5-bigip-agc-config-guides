@@ -61,7 +61,7 @@ Deploy the Configuration
 Setup BrightSpace by Desire2Learn as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to BrightSpace by Desire2Learn documentation to set it up SAML Service Provider.
+Refer to BrightSpace by Desire2Learn documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------

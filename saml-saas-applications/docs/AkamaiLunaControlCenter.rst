@@ -61,7 +61,7 @@ Deploy the Configuration
 Setup Akamai Luna Control Center as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to Akamai Luna Control Center documentation to set it up SAML Service Provider.
+Refer to Akamai Luna Control Center documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------

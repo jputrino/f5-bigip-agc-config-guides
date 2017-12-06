@@ -60,7 +60,7 @@ Deploy the Configuration
 Setup Flex PlusOne as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to Flex PlusOne documentation to set it up SAML Service Provider.
+Refer to Flex PlusOne documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------

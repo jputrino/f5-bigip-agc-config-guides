@@ -60,7 +60,7 @@ Deploy the Configuration
 Setup Microsoft Office 365 as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to Microsoft Office 365 documentation to set it up SAML Service Provider.
+Refer to Microsoft Office 365 documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------

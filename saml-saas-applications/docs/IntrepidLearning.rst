@@ -61,7 +61,7 @@ Deploy the Configuration
 Setup Intrepid Learning as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to Intrepid Learning documentation to set it up SAML Service Provider.
+Refer to Intrepid Learning documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------

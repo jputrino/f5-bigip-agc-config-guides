@@ -61,7 +61,7 @@ Deploy the Configuration
 Setup IBM SmartCloud for Social Business as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to IBM SmartCloud for Social Business documentation to set it up SAML Service Provider.
+Refer to IBM SmartCloud for Social Business documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------

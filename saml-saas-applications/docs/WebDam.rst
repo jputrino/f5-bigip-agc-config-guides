@@ -61,7 +61,7 @@ Deploy the Configuration
 Setup WebDam as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to WebDam documentation to set it up SAML Service Provider.
+Refer to WebDam documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------

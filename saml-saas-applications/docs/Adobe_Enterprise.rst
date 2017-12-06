@@ -61,7 +61,7 @@ Deploy the Configuration
 Setup Adobe Enterprise as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to Adobe Enterprise documentation to set it up SAML Service Provider.
+Refer to Adobe Enterprise documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------

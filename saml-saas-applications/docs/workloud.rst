@@ -63,7 +63,7 @@ Deploy the Configuration
 Setup workloud as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to workloud documentation to set it up SAML Service Provider.
+Refer to workloud documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------

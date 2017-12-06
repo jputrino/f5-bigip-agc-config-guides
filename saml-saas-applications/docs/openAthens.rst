@@ -60,7 +60,7 @@ Deploy the Configuration
 Setup Open Athens as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to Open Athens documentation to set it up SAML Service Provider.
+Refer to Open Athens documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------

@@ -62,7 +62,7 @@ Deploy the Configuration
 Setup Oracle Hyperion as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to Oracle Hyperion documentation to set it up SAML Service Provider.
+Refer to Oracle Hyperion documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------

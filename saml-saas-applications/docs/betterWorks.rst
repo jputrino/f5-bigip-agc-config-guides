@@ -61,7 +61,7 @@ Deploy the Configuration
 Setup betterWorks as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to betterWorks documentation to set it up SAML Service Provider.
+Refer to betterWorks documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------

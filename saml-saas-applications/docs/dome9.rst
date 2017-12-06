@@ -61,7 +61,7 @@ Deploy the Configuration
 Setup Dome9 as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to Dome9 documentation to set it up SAML Service Provider.
+Refer to Dome9 documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------

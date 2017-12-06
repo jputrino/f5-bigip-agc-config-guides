@@ -60,7 +60,7 @@ Deploy the Configuration
 Setup Lynda.com as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to Lynda.com documentation to set it up SAML Service Provider.
+Refer to Lynda.com documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------

@@ -62,7 +62,7 @@ Deploy the Configuration
 Setup DocuSign as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to DocuSign documentation to set it up SAML Service Provider.
+Refer to DocuSign documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------

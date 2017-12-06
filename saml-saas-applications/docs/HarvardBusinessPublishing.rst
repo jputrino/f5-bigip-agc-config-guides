@@ -60,7 +60,7 @@ Deploy the Configuration
 Setup Harvard Business Publishing as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to Harvard Business Publishing documentation to set it up SAML Service Provider.
+Refer to Harvard Business Publishing documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------

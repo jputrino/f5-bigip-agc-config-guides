@@ -61,7 +61,7 @@ Deploy the Configuration
 Setup Bioraft as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to Bioraft documentation to set it up SAML Service Provider.
+Refer to Bioraft documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------

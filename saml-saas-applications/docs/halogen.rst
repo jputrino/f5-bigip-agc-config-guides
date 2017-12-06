@@ -61,7 +61,7 @@ Deploy the Configuration
 Setup Halogen Software as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to Halogen Software documentation to set it up SAML Service Provider.
+Refer to Halogen Software documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------

@@ -60,7 +60,7 @@ Deploy the Configuration
 Setup Clever as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to Clever documentation to set it up SAML Service Provider.
+Refer to Clever documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------

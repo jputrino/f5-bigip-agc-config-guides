@@ -61,7 +61,7 @@ Deploy the Configuration
 Setup boomi.com as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to boomi.com documentation to set it up SAML Service Provider.
+Refer to boomi.com documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------

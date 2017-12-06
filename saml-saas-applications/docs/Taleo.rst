@@ -61,7 +61,7 @@ Deploy the Configuration
 Setup Taleo as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to Taleo documentation to set it up SAML Service Provider.
+Refer to Taleo documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------

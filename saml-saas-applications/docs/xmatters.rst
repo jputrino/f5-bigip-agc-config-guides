@@ -61,7 +61,7 @@ Deploy the Configuration
 Setup xmatters as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to xmatters documentation to set it up SAML Service Provider.
+Refer to xmatters documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------

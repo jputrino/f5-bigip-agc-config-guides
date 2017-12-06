@@ -60,7 +60,7 @@ Deploy the Configuration
 Setup Digabit as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to Digabit documentation to set it up SAML Service Provider.
+Refer to Digabit documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------

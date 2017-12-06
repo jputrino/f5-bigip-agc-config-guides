@@ -60,7 +60,7 @@ Deploy the Configuration
 Setup Condeco Software as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to Condeco Software documentation to set it up SAML Service Provider.
+Refer to Condeco Software documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------

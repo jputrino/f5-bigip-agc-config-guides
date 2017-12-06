@@ -61,7 +61,7 @@ Deploy the Configuration
 Setup New Relic as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to New Relic documentation to set it up SAML Service Provider.
+Refer to New Relic documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------

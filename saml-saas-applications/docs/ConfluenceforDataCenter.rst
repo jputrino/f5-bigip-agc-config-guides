@@ -61,7 +61,7 @@ Deploy the Configuration
 Setup Atlassian Confluence Enterprise as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to Atlassian Confluence Enterprise documentation to set it up SAML Service Provider.
+Refer to Atlassian Confluence Enterprise documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------

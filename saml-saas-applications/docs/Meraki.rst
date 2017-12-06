@@ -62,7 +62,7 @@ Deploy the Configuration
 Setup Cisco Meraki as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to Cisco Meraki documentation to set it up SAML Service Provider.
+Refer to Cisco Meraki documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------

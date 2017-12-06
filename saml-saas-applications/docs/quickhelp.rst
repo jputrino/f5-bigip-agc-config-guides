@@ -60,7 +60,7 @@ Deploy the Configuration
 Setup Brainstorm Quickhelp as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to Brainstorm Quickhelp documentation to set it up SAML Service Provider.
+Refer to Brainstorm Quickhelp documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------

@@ -61,7 +61,7 @@ Deploy the Configuration
 Setup Chronus as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to Chronus documentation to set it up SAML Service Provider.
+Refer to Chronus documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------

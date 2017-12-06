@@ -60,7 +60,7 @@ Deploy the Configuration
 Setup Egencia as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to Egencia documentation to set it up SAML Service Provider.
+Refer to Egencia documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------

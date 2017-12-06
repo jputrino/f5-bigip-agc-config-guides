@@ -60,7 +60,7 @@ Deploy the Configuration
 Setup Cylance as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to Cylance documentation to set it up SAML Service Provider.
+Refer to Cylance documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------

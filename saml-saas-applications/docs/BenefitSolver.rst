@@ -61,7 +61,7 @@ Deploy the Configuration
 Setup Benefit Solver as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to Benefit Solver documentation to set it up SAML Service Provider.
+Refer to Benefit Solver documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------

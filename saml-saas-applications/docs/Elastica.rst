@@ -60,7 +60,7 @@ Deploy the Configuration
 Setup Elastica as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to Elastica documentation to set it up SAML Service Provider.
+Refer to Elastica documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------

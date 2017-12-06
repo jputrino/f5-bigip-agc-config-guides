@@ -61,7 +61,7 @@ Deploy the Configuration
 Setup AppDynamics as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to AppDynamics documentation to set it up SAML Service Provider.
+Refer to AppDynamics documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------

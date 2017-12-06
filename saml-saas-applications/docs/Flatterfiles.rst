@@ -60,7 +60,7 @@ Deploy the Configuration
 Setup Flatterfiles as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to Flatterfiles documentation to set it up SAML Service Provider.
+Refer to Flatterfiles documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------

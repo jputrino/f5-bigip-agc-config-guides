@@ -61,7 +61,7 @@ Deploy the Configuration
 Setup Blackboard as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to Blackboard documentation to set it up SAML Service Provider.
+Refer to Blackboard documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------

@@ -62,7 +62,7 @@ Deploy the Configuration
 Setup VCloud Director as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to VCloud Director documentation to set it up SAML Service Provider.
+Refer to VCloud Director documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------

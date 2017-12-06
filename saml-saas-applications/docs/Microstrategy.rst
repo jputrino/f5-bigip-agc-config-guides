@@ -60,7 +60,7 @@ Deploy the Configuration
 Setup Microstrategy as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to Microstrategy documentation to set it up SAML Service Provider.
+Refer to Microstrategy documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------

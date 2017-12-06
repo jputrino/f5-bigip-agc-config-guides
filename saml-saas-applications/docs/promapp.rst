@@ -62,7 +62,7 @@ Deploy the Configuration
 Setup Promapp as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to Promapp documentation to set it up SAML Service Provider.
+Refer to Promapp documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------

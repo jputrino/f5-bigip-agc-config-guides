@@ -61,7 +61,7 @@ Deploy the Configuration
 Setup Kenexa BrassRing(IBM) as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to Kenexa BrassRing(IBM) documentation to set it up SAML Service Provider.
+Refer to Kenexa BrassRing(IBM) documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------

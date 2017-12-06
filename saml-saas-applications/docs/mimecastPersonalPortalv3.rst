@@ -62,7 +62,7 @@ Deploy the Configuration
 Setup Mimecast Personal Portal-V3 as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to Mimecast Personal Portal-V3 documentation to set it up SAML Service Provider.
+Refer to Mimecast Personal Portal-V3 documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------

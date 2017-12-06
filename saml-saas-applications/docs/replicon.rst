@@ -61,7 +61,7 @@ Deploy the Configuration
 Setup Replicon as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to Replicon documentation to set it up SAML Service Provider.
+Refer to Replicon documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------

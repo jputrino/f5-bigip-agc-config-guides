@@ -61,7 +61,7 @@ Deploy the Configuration
 Setup Clockwise.Md as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to Clockwise.Md documentation to set it up SAML Service Provider.
+Refer to Clockwise.Md documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------

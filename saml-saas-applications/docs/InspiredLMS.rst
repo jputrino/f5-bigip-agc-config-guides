@@ -62,7 +62,7 @@ Deploy the Configuration
 Setup InspiredLMS as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to InspiredLMS documentation to set it up SAML Service Provider.
+Refer to InspiredLMS documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------

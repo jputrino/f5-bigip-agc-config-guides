@@ -61,7 +61,7 @@ Deploy the Configuration
 Setup StudentSuccess as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to StudentSuccess documentation to set it up SAML Service Provider.
+Refer to StudentSuccess documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------

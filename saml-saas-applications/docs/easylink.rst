@@ -60,7 +60,7 @@ Deploy the Configuration
 Setup Easylink as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to Easylink documentation to set it up SAML Service Provider.
+Refer to Easylink documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------

@@ -61,7 +61,7 @@ Deploy the Configuration
 Setup Compliance360 as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to Compliance360 documentation to set it up SAML Service Provider.
+Refer to Compliance360 documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------

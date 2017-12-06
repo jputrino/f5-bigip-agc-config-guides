@@ -61,7 +61,7 @@ Deploy the Configuration
 Setup Janison Learning as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to Janison Learning documentation to set it up SAML Service Provider.
+Refer to Janison Learning documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------

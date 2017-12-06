@@ -61,7 +61,7 @@ Deploy the Configuration
 Setup Cornerstone on-demand as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to Cornerstone on-demand documentation to set it up SAML Service Provider.
+Refer to Cornerstone on-demand documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------

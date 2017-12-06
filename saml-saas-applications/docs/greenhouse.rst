@@ -61,7 +61,7 @@ Deploy the Configuration
 Setup Greenhouse as SAML Service Provider
 ------------------------------------------------------------------------------------------------------------
 
-Refer to Greenhouse documentation to set it up SAML Service Provider.
+Refer to Greenhouse documentation to set it up as SAML Service Provider.
 
 Test the Configuration
 ----------------------
