@@ -35,7 +35,7 @@ Application Specific Properties
 -------------------------------
 
 To configure KnowBe4 provide following inputs:
-	- :guilabel:`Company Domain` : Specify company domain name. ACS URI uses this. For example,  https://training.knowbe4.com/auth/saml/acme.com/callback where acme.com is company domain name.
+	- :guilabel:`Company Domain` : Specify company domain name. ACS URI uses this. For example, https://training.knowbe4.com/auth/saml/acme.com/callback where acme.com is company domain name.
 
 Additional SAML Attributes and ACS Properties
 ---------------------------------------------

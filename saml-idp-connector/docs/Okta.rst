@@ -30,7 +30,7 @@ IDP Connector Specific Properties
 
 To configure Okta provide following inputs:
 	- :guilabel:`Single Sign-on(SSO) URL` : Provide the single sign-on URL provided by Okta.
-	- :guilabel:`Org ExternalKey` : Provide the Org external key from your application configuration in Okta under SAML Issuer ID and will have a format like http://www.okta.com/abcdaxyz
+	- :guilabel:`Org ExternalKey` : Provide the Org external key from your application configuration in Okta under SAML Issuer ID which will have a format like http://www.okta.com/abcdaxyz, where abcdxyz is the Org ExternalKey
 
 Advanced Connector Settings
 ---------------------------
