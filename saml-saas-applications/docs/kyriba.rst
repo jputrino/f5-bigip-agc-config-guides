@@ -59,6 +59,11 @@ Deploy the Configuration
 #. Select the SAML SSO object created for for Kyriba, and click :guilabel:`Export Metadata`.
 #. Use the exported IdP SAML Metadata to configure the IdP Provider configuration in the Kyriba service.
 
+Setup Kyriba as SAML Service Provider
+------------------------------------------------------------------------------------------------------------
+
+Refer to Kyriba documentation to set it up SAML Service Provider.
+
 Test the Configuration
 ----------------------
 

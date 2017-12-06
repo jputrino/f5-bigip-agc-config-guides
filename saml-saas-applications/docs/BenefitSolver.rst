@@ -58,6 +58,11 @@ Deploy the Configuration
 #. Select the SAML SSO object created for for Benefit Solver, and click :guilabel:`Export Metadata`.
 #. Use the exported IdP SAML Metadata to configure the IdP Provider configuration in the Benefit Solver service.
 
+Setup Benefit Solver as SAML Service Provider
+------------------------------------------------------------------------------------------------------------
+
+Refer to Benefit Solver documentation to set it up SAML Service Provider.
+
 Test the Configuration
 ----------------------
 

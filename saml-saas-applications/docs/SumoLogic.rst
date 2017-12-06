@@ -58,6 +58,11 @@ Deploy the Configuration
 #. Select the SAML SSO object created for for Sumo Logic, and click :guilabel:`Export Metadata`.
 #. Use the exported IdP SAML Metadata to configure the IdP Provider configuration in the Sumo Logic service.
 
+Setup Sumo Logic as SAML Service Provider
+------------------------------------------------------------------------------------------------------------
+
+Refer to Sumo Logic documentation to set it up SAML Service Provider.
+
 Test the Configuration
 ----------------------
 

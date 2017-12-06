@@ -57,6 +57,11 @@ Deploy the Configuration
 #. Select the SAML SSO object created for for Open Athens, and click :guilabel:`Export Metadata`.
 #. Use the exported IdP SAML Metadata to configure the IdP Provider configuration in the Open Athens service.
 
+Setup Open Athens as SAML Service Provider
+------------------------------------------------------------------------------------------------------------
+
+Refer to Open Athens documentation to set it up SAML Service Provider.
+
 Test the Configuration
 ----------------------
 

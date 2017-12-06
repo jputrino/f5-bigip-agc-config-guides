@@ -58,6 +58,11 @@ Deploy the Configuration
 #. Select the SAML SSO object created for for Clinical Conductor, and click :guilabel:`Export Metadata`.
 #. Use the exported IdP SAML Metadata to configure the IdP Provider configuration in the Clinical Conductor service.
 
+Setup Clinical Conductor as SAML Service Provider
+------------------------------------------------------------------------------------------------------------
+
+Refer to Clinical Conductor documentation to set it up SAML Service Provider.
+
 Test the Configuration
 ----------------------
 

@@ -58,6 +58,11 @@ Deploy the Configuration
 #. Select the SAML SSO object created for for Citrix GoToMeeting, and click :guilabel:`Export Metadata`.
 #. Use the exported IdP SAML Metadata to configure the IdP Provider configuration in the Citrix GoToMeeting service.
 
+Setup Citrix GoToMeeting as SAML Service Provider
+------------------------------------------------------------------------------------------------------------
+
+Refer to Citrix GoToMeeting documentation to set it up SAML Service Provider.
+
 Test the Configuration
 ----------------------
 

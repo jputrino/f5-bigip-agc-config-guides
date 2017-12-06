@@ -57,6 +57,11 @@ Deploy the Configuration
 #. Select the SAML SSO object created for for Harvard Business Publishing, and click :guilabel:`Export Metadata`.
 #. Use the exported IdP SAML Metadata to configure the IdP Provider configuration in the Harvard Business Publishing service.
 
+Setup Harvard Business Publishing as SAML Service Provider
+------------------------------------------------------------------------------------------------------------
+
+Refer to Harvard Business Publishing documentation to set it up SAML Service Provider.
+
 Test the Configuration
 ----------------------
 

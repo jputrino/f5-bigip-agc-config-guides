@@ -57,6 +57,11 @@ Deploy the Configuration
 #. Select the SAML SSO object created for for Campuslabs, and click :guilabel:`Export Metadata`.
 #. Use the exported IdP SAML Metadata to configure the IdP Provider configuration in the Campuslabs service.
 
+Setup Campuslabs as SAML Service Provider
+------------------------------------------------------------------------------------------------------------
+
+Refer to Campuslabs documentation to set it up SAML Service Provider.
+
 Test the Configuration
 ----------------------
 

@@ -57,6 +57,11 @@ Deploy the Configuration
 #. Select the SAML SSO object created for for $TEMPLATE_LABEL$, and click :guilabel:`Export Metadata`.
 #. Use the exported IdP SAML Metadata to configure the IdP Provider configuration in the $TEMPLATE_LABEL$ service.
 
+Setup $TEMPLATE_LABEL$ as SAML Service Provider
+------------------------------------------------------------------------------------------------------------
+
+Refer to $TEMPLATE_LABEL$ documentation to set it up SAML Service Provider.
+
 Test the Configuration
 ----------------------
 

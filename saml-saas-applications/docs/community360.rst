@@ -59,6 +59,11 @@ Deploy the Configuration
 #. Select the SAML SSO object created for for Community 360, and click :guilabel:`Export Metadata`.
 #. Use the exported IdP SAML Metadata to configure the IdP Provider configuration in the Community 360 service.
 
+Setup Community 360 as SAML Service Provider
+------------------------------------------------------------------------------------------------------------
+
+Refer to Community 360 documentation to set it up SAML Service Provider.
+
 Test the Configuration
 ----------------------
 

@@ -60,6 +60,11 @@ Deploy the Configuration
 #. Select the SAML SSO object created for for workloud, and click :guilabel:`Export Metadata`.
 #. Use the exported IdP SAML Metadata to configure the IdP Provider configuration in the workloud service.
 
+Setup workloud as SAML Service Provider
+------------------------------------------------------------------------------------------------------------
+
+Refer to workloud documentation to set it up SAML Service Provider.
+
 Test the Configuration
 ----------------------
 

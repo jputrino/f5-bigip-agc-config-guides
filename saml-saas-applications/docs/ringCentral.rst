@@ -59,6 +59,11 @@ Deploy the Configuration
 #. Select the SAML SSO object created for for RingCentral, and click :guilabel:`Export Metadata`.
 #. Use the exported IdP SAML Metadata to configure the IdP Provider configuration in the RingCentral service.
 
+Setup RingCentral as SAML Service Provider
+------------------------------------------------------------------------------------------------------------
+
+Refer to RingCentral documentation to set it up SAML Service Provider.
+
 Test the Configuration
 ----------------------
 

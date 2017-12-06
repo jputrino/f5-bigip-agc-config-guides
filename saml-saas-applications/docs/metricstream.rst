@@ -58,6 +58,11 @@ Deploy the Configuration
 #. Select the SAML SSO object created for for MetricStream, and click :guilabel:`Export Metadata`.
 #. Use the exported IdP SAML Metadata to configure the IdP Provider configuration in the MetricStream service.
 
+Setup MetricStream as SAML Service Provider
+------------------------------------------------------------------------------------------------------------
+
+Refer to MetricStream documentation to set it up SAML Service Provider.
+
 Test the Configuration
 ----------------------
 

@@ -58,6 +58,11 @@ Deploy the Configuration
 #. Select the SAML SSO object created for for xmatters, and click :guilabel:`Export Metadata`.
 #. Use the exported IdP SAML Metadata to configure the IdP Provider configuration in the xmatters service.
 
+Setup xmatters as SAML Service Provider
+------------------------------------------------------------------------------------------------------------
+
+Refer to xmatters documentation to set it up SAML Service Provider.
+
 Test the Configuration
 ----------------------
 

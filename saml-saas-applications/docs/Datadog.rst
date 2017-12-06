@@ -57,6 +57,11 @@ Deploy the Configuration
 #. Select the SAML SSO object created for for Datadog, and click :guilabel:`Export Metadata`.
 #. Use the exported IdP SAML Metadata to configure the IdP Provider configuration in the Datadog service.
 
+Setup Datadog as SAML Service Provider
+------------------------------------------------------------------------------------------------------------
+
+Refer to Datadog documentation to set it up SAML Service Provider.
+
 Test the Configuration
 ----------------------
 

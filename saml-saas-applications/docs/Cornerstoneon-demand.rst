@@ -58,6 +58,11 @@ Deploy the Configuration
 #. Select the SAML SSO object created for for Cornerstone on-demand, and click :guilabel:`Export Metadata`.
 #. Use the exported IdP SAML Metadata to configure the IdP Provider configuration in the Cornerstone on-demand service.
 
+Setup Cornerstone on-demand as SAML Service Provider
+------------------------------------------------------------------------------------------------------------
+
+Refer to Cornerstone on-demand documentation to set it up SAML Service Provider.
+
 Test the Configuration
 ----------------------
 

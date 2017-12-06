@@ -58,6 +58,11 @@ Deploy the Configuration
 #. Select the SAML SSO object created for for Atlassian Confluence Enterprise, and click :guilabel:`Export Metadata`.
 #. Use the exported IdP SAML Metadata to configure the IdP Provider configuration in the Atlassian Confluence Enterprise service.
 
+Setup Atlassian Confluence Enterprise as SAML Service Provider
+------------------------------------------------------------------------------------------------------------
+
+Refer to Atlassian Confluence Enterprise documentation to set it up SAML Service Provider.
+
 Test the Configuration
 ----------------------
 

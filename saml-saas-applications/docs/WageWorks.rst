@@ -59,6 +59,11 @@ Deploy the Configuration
 #. Select the SAML SSO object created for for WageWorks, and click :guilabel:`Export Metadata`.
 #. Use the exported IdP SAML Metadata to configure the IdP Provider configuration in the WageWorks service.
 
+Setup WageWorks as SAML Service Provider
+------------------------------------------------------------------------------------------------------------
+
+Refer to WageWorks documentation to set it up SAML Service Provider.
+
 Test the Configuration
 ----------------------
 

@@ -58,6 +58,11 @@ Deploy the Configuration
 #. Select the SAML SSO object created for for Staples Easy Print, and click :guilabel:`Export Metadata`.
 #. Use the exported IdP SAML Metadata to configure the IdP Provider configuration in the Staples Easy Print service.
 
+Setup Staples Easy Print as SAML Service Provider
+------------------------------------------------------------------------------------------------------------
+
+Refer to Staples Easy Print documentation to set it up SAML Service Provider.
+
 Test the Configuration
 ----------------------
 

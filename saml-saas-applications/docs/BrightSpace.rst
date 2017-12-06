@@ -58,6 +58,11 @@ Deploy the Configuration
 #. Select the SAML SSO object created for for BrightSpace by Desire2Learn, and click :guilabel:`Export Metadata`.
 #. Use the exported IdP SAML Metadata to configure the IdP Provider configuration in the BrightSpace by Desire2Learn service.
 
+Setup BrightSpace by Desire2Learn as SAML Service Provider
+------------------------------------------------------------------------------------------------------------
+
+Refer to BrightSpace by Desire2Learn documentation to set it up SAML Service Provider.
+
 Test the Configuration
 ----------------------
 

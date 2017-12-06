@@ -59,6 +59,11 @@ Deploy the Configuration
 #. Select the SAML SSO object created for for SAP Successfactors, and click :guilabel:`Export Metadata`.
 #. Use the exported IdP SAML Metadata to configure the IdP Provider configuration in the SAP Successfactors service.
 
+Setup SAP Successfactors as SAML Service Provider
+------------------------------------------------------------------------------------------------------------
+
+Refer to SAP Successfactors documentation to set it up SAML Service Provider.
+
 Test the Configuration
 ----------------------
 

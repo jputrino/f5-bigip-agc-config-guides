@@ -57,6 +57,11 @@ Deploy the Configuration
 #. Select the SAML SSO object created for for Educause, and click :guilabel:`Export Metadata`.
 #. Use the exported IdP SAML Metadata to configure the IdP Provider configuration in the Educause service.
 
+Setup Educause as SAML Service Provider
+------------------------------------------------------------------------------------------------------------
+
+Refer to Educause documentation to set it up SAML Service Provider.
+
 Test the Configuration
 ----------------------
 

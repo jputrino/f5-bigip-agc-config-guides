@@ -59,6 +59,11 @@ Deploy the Configuration
 #. Select the SAML SSO object created for for Oracle Hyperion, and click :guilabel:`Export Metadata`.
 #. Use the exported IdP SAML Metadata to configure the IdP Provider configuration in the Oracle Hyperion service.
 
+Setup Oracle Hyperion as SAML Service Provider
+------------------------------------------------------------------------------------------------------------
+
+Refer to Oracle Hyperion documentation to set it up SAML Service Provider.
+
 Test the Configuration
 ----------------------
 

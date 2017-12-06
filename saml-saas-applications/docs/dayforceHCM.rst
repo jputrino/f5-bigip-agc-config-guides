@@ -57,6 +57,11 @@ Deploy the Configuration
 #. Select the SAML SSO object created for for Dayforce HCM, and click :guilabel:`Export Metadata`.
 #. Use the exported IdP SAML Metadata to configure the IdP Provider configuration in the Dayforce HCM service.
 
+Setup Dayforce HCM as SAML Service Provider
+------------------------------------------------------------------------------------------------------------
+
+Refer to Dayforce HCM documentation to set it up SAML Service Provider.
+
 Test the Configuration
 ----------------------
 

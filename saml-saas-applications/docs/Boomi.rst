@@ -58,6 +58,11 @@ Deploy the Configuration
 #. Select the SAML SSO object created for for boomi.com, and click :guilabel:`Export Metadata`.
 #. Use the exported IdP SAML Metadata to configure the IdP Provider configuration in the boomi.com service.
 
+Setup boomi.com as SAML Service Provider
+------------------------------------------------------------------------------------------------------------
+
+Refer to boomi.com documentation to set it up SAML Service Provider.
+
 Test the Configuration
 ----------------------
 

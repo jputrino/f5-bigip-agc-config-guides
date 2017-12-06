@@ -58,6 +58,11 @@ Deploy the Configuration
 #. Select the SAML SSO object created for for Greenhouse, and click :guilabel:`Export Metadata`.
 #. Use the exported IdP SAML Metadata to configure the IdP Provider configuration in the Greenhouse service.
 
+Setup Greenhouse as SAML Service Provider
+------------------------------------------------------------------------------------------------------------
+
+Refer to Greenhouse documentation to set it up SAML Service Provider.
+
 Test the Configuration
 ----------------------
 

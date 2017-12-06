@@ -57,6 +57,11 @@ Deploy the Configuration
 #. Select the SAML SSO object created for for Box, and click :guilabel:`Export Metadata`.
 #. Use the exported IdP SAML Metadata to configure the IdP Provider configuration in the Box service.
 
+Setup Box as SAML Service Provider
+------------------------------------------------------------------------------------------------------------
+
+Refer to Box documentation to set it up SAML Service Provider.
+
 Test the Configuration
 ----------------------
 

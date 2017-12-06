@@ -58,6 +58,11 @@ Deploy the Configuration
 #. Select the SAML SSO object created for for Amberroad, and click :guilabel:`Export Metadata`.
 #. Use the exported IdP SAML Metadata to configure the IdP Provider configuration in the Amberroad service.
 
+Setup Amberroad as SAML Service Provider
+------------------------------------------------------------------------------------------------------------
+
+Refer to Amberroad documentation to set it up SAML Service Provider.
+
 Test the Configuration
 ----------------------
 

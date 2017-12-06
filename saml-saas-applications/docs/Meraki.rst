@@ -59,6 +59,11 @@ Deploy the Configuration
 #. Select the SAML SSO object created for for Cisco Meraki, and click :guilabel:`Export Metadata`.
 #. Use the exported IdP SAML Metadata to configure the IdP Provider configuration in the Cisco Meraki service.
 
+Setup Cisco Meraki as SAML Service Provider
+------------------------------------------------------------------------------------------------------------
+
+Refer to Cisco Meraki documentation to set it up SAML Service Provider.
+
 Test the Configuration
 ----------------------
 

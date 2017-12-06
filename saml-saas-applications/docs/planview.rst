@@ -58,6 +58,11 @@ Deploy the Configuration
 #. Select the SAML SSO object created for for Planview, and click :guilabel:`Export Metadata`.
 #. Use the exported IdP SAML Metadata to configure the IdP Provider configuration in the Planview service.
 
+Setup Planview as SAML Service Provider
+------------------------------------------------------------------------------------------------------------
+
+Refer to Planview documentation to set it up SAML Service Provider.
+
 Test the Configuration
 ----------------------
 

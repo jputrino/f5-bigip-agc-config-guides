@@ -57,6 +57,11 @@ Deploy the Configuration
 #. Select the SAML SSO object created for for Microsoft Office 365, and click :guilabel:`Export Metadata`.
 #. Use the exported IdP SAML Metadata to configure the IdP Provider configuration in the Microsoft Office 365 service.
 
+Setup Microsoft Office 365 as SAML Service Provider
+------------------------------------------------------------------------------------------------------------
+
+Refer to Microsoft Office 365 documentation to set it up SAML Service Provider.
+
 Test the Configuration
 ----------------------
 

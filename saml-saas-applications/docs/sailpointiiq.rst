@@ -58,6 +58,11 @@ Deploy the Configuration
 #. Select the SAML SSO object created for for Sailpoint IIQ, and click :guilabel:`Export Metadata`.
 #. Use the exported IdP SAML Metadata to configure the IdP Provider configuration in the Sailpoint IIQ service.
 
+Setup Sailpoint IIQ as SAML Service Provider
+------------------------------------------------------------------------------------------------------------
+
+Refer to Sailpoint IIQ documentation to set it up SAML Service Provider.
+
 Test the Configuration
 ----------------------
 

@@ -58,6 +58,11 @@ Deploy the Configuration
 #. Select the SAML SSO object created for for KnowBe4, and click :guilabel:`Export Metadata`.
 #. Use the exported IdP SAML Metadata to configure the IdP Provider configuration in the KnowBe4 service.
 
+Setup KnowBe4 as SAML Service Provider
+------------------------------------------------------------------------------------------------------------
+
+Refer to KnowBe4 documentation to set it up SAML Service Provider.
+
 Test the Configuration
 ----------------------
 

@@ -60,6 +60,11 @@ Deploy the Configuration
 #. Select the SAML SSO object created for for Amazon Web Services, and click :guilabel:`Export Metadata`.
 #. Use the exported IdP SAML Metadata to configure the IdP Provider configuration in the Amazon Web Services service.
 
+Setup Amazon Web Services as SAML Service Provider
+------------------------------------------------------------------------------------------------------------
+
+Refer to Amazon Web Services documentation to set it up SAML Service Provider.
+
 Test the Configuration
 ----------------------
 

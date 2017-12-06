@@ -58,6 +58,11 @@ Deploy the Configuration
 #. Select the SAML SSO object created for for Silkroad Redcarpet, and click :guilabel:`Export Metadata`.
 #. Use the exported IdP SAML Metadata to configure the IdP Provider configuration in the Silkroad Redcarpet service.
 
+Setup Silkroad Redcarpet as SAML Service Provider
+------------------------------------------------------------------------------------------------------------
+
+Refer to Silkroad Redcarpet documentation to set it up SAML Service Provider.
+
 Test the Configuration
 ----------------------
 

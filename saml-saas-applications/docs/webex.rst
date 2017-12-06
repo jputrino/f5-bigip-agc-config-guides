@@ -58,6 +58,11 @@ Deploy the Configuration
 #. Select the SAML SSO object created for for WebEx, and click :guilabel:`Export Metadata`.
 #. Use the exported IdP SAML Metadata to configure the IdP Provider configuration in the WebEx service.
 
+Setup WebEx as SAML Service Provider
+------------------------------------------------------------------------------------------------------------
+
+Refer to WebEx documentation to set it up SAML Service Provider.
+
 Test the Configuration
 ----------------------
 

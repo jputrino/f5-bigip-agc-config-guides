@@ -57,6 +57,11 @@ Deploy the Configuration
 #. Select the SAML SSO object created for for BlueJeans, and click :guilabel:`Export Metadata`.
 #. Use the exported IdP SAML Metadata to configure the IdP Provider configuration in the BlueJeans service.
 
+Setup BlueJeans as SAML Service Provider
+------------------------------------------------------------------------------------------------------------
+
+Refer to BlueJeans documentation to set it up SAML Service Provider.
+
 Test the Configuration
 ----------------------
 

@@ -58,6 +58,11 @@ Deploy the Configuration
 #. Select the SAML SSO object created for for Signmesh, and click :guilabel:`Export Metadata`.
 #. Use the exported IdP SAML Metadata to configure the IdP Provider configuration in the Signmesh service.
 
+Setup Signmesh as SAML Service Provider
+------------------------------------------------------------------------------------------------------------
+
+Refer to Signmesh documentation to set it up SAML Service Provider.
+
 Test the Configuration
 ----------------------
 

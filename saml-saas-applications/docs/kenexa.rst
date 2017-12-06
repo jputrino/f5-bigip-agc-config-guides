@@ -58,6 +58,11 @@ Deploy the Configuration
 #. Select the SAML SSO object created for for Kenexa BrassRing(IBM), and click :guilabel:`Export Metadata`.
 #. Use the exported IdP SAML Metadata to configure the IdP Provider configuration in the Kenexa BrassRing(IBM) service.
 
+Setup Kenexa BrassRing(IBM) as SAML Service Provider
+------------------------------------------------------------------------------------------------------------
+
+Refer to Kenexa BrassRing(IBM) documentation to set it up SAML Service Provider.
+
 Test the Configuration
 ----------------------
 

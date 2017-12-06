@@ -58,6 +58,11 @@ Deploy the Configuration
 #. Select the SAML SSO object created for for Navex Global, and click :guilabel:`Export Metadata`.
 #. Use the exported IdP SAML Metadata to configure the IdP Provider configuration in the Navex Global service.
 
+Setup Navex Global as SAML Service Provider
+------------------------------------------------------------------------------------------------------------
+
+Refer to Navex Global documentation to set it up SAML Service Provider.
+
 Test the Configuration
 ----------------------
 

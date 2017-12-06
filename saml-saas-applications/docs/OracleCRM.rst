@@ -58,6 +58,11 @@ Deploy the Configuration
 #. Select the SAML SSO object created for for Oracle CRM onDemand, and click :guilabel:`Export Metadata`.
 #. Use the exported IdP SAML Metadata to configure the IdP Provider configuration in the Oracle CRM onDemand service.
 
+Setup Oracle CRM onDemand as SAML Service Provider
+------------------------------------------------------------------------------------------------------------
+
+Refer to Oracle CRM onDemand documentation to set it up SAML Service Provider.
+
 Test the Configuration
 ----------------------
 

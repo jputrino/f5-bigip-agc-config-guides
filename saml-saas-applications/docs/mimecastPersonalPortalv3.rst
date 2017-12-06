@@ -59,6 +59,11 @@ Deploy the Configuration
 #. Select the SAML SSO object created for for Mimecast Personal Portal-V3, and click :guilabel:`Export Metadata`.
 #. Use the exported IdP SAML Metadata to configure the IdP Provider configuration in the Mimecast Personal Portal-V3 service.
 
+Setup Mimecast Personal Portal-V3 as SAML Service Provider
+------------------------------------------------------------------------------------------------------------
+
+Refer to Mimecast Personal Portal-V3 documentation to set it up SAML Service Provider.
+
 Test the Configuration
 ----------------------
 

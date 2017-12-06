@@ -58,6 +58,11 @@ Deploy the Configuration
 #. Select the SAML SSO object created for for Taleo, and click :guilabel:`Export Metadata`.
 #. Use the exported IdP SAML Metadata to configure the IdP Provider configuration in the Taleo service.
 
+Setup Taleo as SAML Service Provider
+------------------------------------------------------------------------------------------------------------
+
+Refer to Taleo documentation to set it up SAML Service Provider.
+
 Test the Configuration
 ----------------------
 

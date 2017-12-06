@@ -57,6 +57,11 @@ Deploy the Configuration
 #. Select the SAML SSO object created for for Talkpoint webcasts, and click :guilabel:`Export Metadata`.
 #. Use the exported IdP SAML Metadata to configure the IdP Provider configuration in the Talkpoint webcasts service.
 
+Setup Talkpoint webcasts as SAML Service Provider
+------------------------------------------------------------------------------------------------------------
+
+Refer to Talkpoint webcasts documentation to set it up SAML Service Provider.
+
 Test the Configuration
 ----------------------
 

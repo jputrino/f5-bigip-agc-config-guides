@@ -58,6 +58,11 @@ Deploy the Configuration
 #. Select the SAML SSO object created for for HostAnalytics, and click :guilabel:`Export Metadata`.
 #. Use the exported IdP SAML Metadata to configure the IdP Provider configuration in the HostAnalytics service.
 
+Setup HostAnalytics as SAML Service Provider
+------------------------------------------------------------------------------------------------------------
+
+Refer to HostAnalytics documentation to set it up SAML Service Provider.
+
 Test the Configuration
 ----------------------
 

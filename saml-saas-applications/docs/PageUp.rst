@@ -58,6 +58,11 @@ Deploy the Configuration
 #. Select the SAML SSO object created for for PageUp People, and click :guilabel:`Export Metadata`.
 #. Use the exported IdP SAML Metadata to configure the IdP Provider configuration in the PageUp People service.
 
+Setup PageUp People as SAML Service Provider
+------------------------------------------------------------------------------------------------------------
+
+Refer to PageUp People documentation to set it up SAML Service Provider.
+
 Test the Configuration
 ----------------------
 

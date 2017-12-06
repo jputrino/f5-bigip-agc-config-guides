@@ -57,6 +57,11 @@ Deploy the Configuration
 #. Select the SAML SSO object created for for Brainstorm Quickhelp, and click :guilabel:`Export Metadata`.
 #. Use the exported IdP SAML Metadata to configure the IdP Provider configuration in the Brainstorm Quickhelp service.
 
+Setup Brainstorm Quickhelp as SAML Service Provider
+------------------------------------------------------------------------------------------------------------
+
+Refer to Brainstorm Quickhelp documentation to set it up SAML Service Provider.
+
 Test the Configuration
 ----------------------
 

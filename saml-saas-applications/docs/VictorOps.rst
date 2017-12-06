@@ -58,6 +58,11 @@ Deploy the Configuration
 #. Select the SAML SSO object created for for VictorOps, and click :guilabel:`Export Metadata`.
 #. Use the exported IdP SAML Metadata to configure the IdP Provider configuration in the VictorOps service.
 
+Setup VictorOps as SAML Service Provider
+------------------------------------------------------------------------------------------------------------
+
+Refer to VictorOps documentation to set it up SAML Service Provider.
+
 Test the Configuration
 ----------------------
 

@@ -57,6 +57,11 @@ Deploy the Configuration
 #. Select the SAML SSO object created for for Highspot, and click :guilabel:`Export Metadata`.
 #. Use the exported IdP SAML Metadata to configure the IdP Provider configuration in the Highspot service.
 
+Setup Highspot as SAML Service Provider
+------------------------------------------------------------------------------------------------------------
+
+Refer to Highspot documentation to set it up SAML Service Provider.
+
 Test the Configuration
 ----------------------
 

@@ -57,6 +57,11 @@ Deploy the Configuration
 #. Select the SAML SSO object created for for FactSet, and click :guilabel:`Export Metadata`.
 #. Use the exported IdP SAML Metadata to configure the IdP Provider configuration in the FactSet service.
 
+Setup FactSet as SAML Service Provider
+------------------------------------------------------------------------------------------------------------
+
+Refer to FactSet documentation to set it up SAML Service Provider.
+
 Test the Configuration
 ----------------------
 

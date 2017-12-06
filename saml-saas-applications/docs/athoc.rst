@@ -57,6 +57,11 @@ Deploy the Configuration
 #. Select the SAML SSO object created for for AtHoc Services, and click :guilabel:`Export Metadata`.
 #. Use the exported IdP SAML Metadata to configure the IdP Provider configuration in the AtHoc Services service.
 
+Setup AtHoc Services as SAML Service Provider
+------------------------------------------------------------------------------------------------------------
+
+Refer to AtHoc Services documentation to set it up SAML Service Provider.
+
 Test the Configuration
 ----------------------
 

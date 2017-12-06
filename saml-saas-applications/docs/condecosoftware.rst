@@ -57,6 +57,11 @@ Deploy the Configuration
 #. Select the SAML SSO object created for for Condeco Software, and click :guilabel:`Export Metadata`.
 #. Use the exported IdP SAML Metadata to configure the IdP Provider configuration in the Condeco Software service.
 
+Setup Condeco Software as SAML Service Provider
+------------------------------------------------------------------------------------------------------------
+
+Refer to Condeco Software documentation to set it up SAML Service Provider.
+
 Test the Configuration
 ----------------------
 

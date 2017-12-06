@@ -58,6 +58,11 @@ Deploy the Configuration
 #. Select the SAML SSO object created for for Gildan, and click :guilabel:`Export Metadata`.
 #. Use the exported IdP SAML Metadata to configure the IdP Provider configuration in the Gildan service.
 
+Setup Gildan as SAML Service Provider
+------------------------------------------------------------------------------------------------------------
+
+Refer to Gildan documentation to set it up SAML Service Provider.
+
 Test the Configuration
 ----------------------
 

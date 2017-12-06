@@ -58,6 +58,11 @@ Deploy the Configuration
 #. Select the SAML SSO object created for for Akamai Luna Control Center, and click :guilabel:`Export Metadata`.
 #. Use the exported IdP SAML Metadata to configure the IdP Provider configuration in the Akamai Luna Control Center service.
 
+Setup Akamai Luna Control Center as SAML Service Provider
+------------------------------------------------------------------------------------------------------------
+
+Refer to Akamai Luna Control Center documentation to set it up SAML Service Provider.
+
 Test the Configuration
 ----------------------
 

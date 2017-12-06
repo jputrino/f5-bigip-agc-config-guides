@@ -58,6 +58,11 @@ Deploy the Configuration
 #. Select the SAML SSO object created for for Silo Authentic8, and click :guilabel:`Export Metadata`.
 #. Use the exported IdP SAML Metadata to configure the IdP Provider configuration in the Silo Authentic8 service.
 
+Setup Silo Authentic8 as SAML Service Provider
+------------------------------------------------------------------------------------------------------------
+
+Refer to Silo Authentic8 documentation to set it up SAML Service Provider.
+
 Test the Configuration
 ----------------------
 

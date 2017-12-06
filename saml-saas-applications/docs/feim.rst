@@ -58,6 +58,11 @@ Deploy the Configuration
 #. Select the SAML SSO object created for for First Eagle Investment Management, and click :guilabel:`Export Metadata`.
 #. Use the exported IdP SAML Metadata to configure the IdP Provider configuration in the First Eagle Investment Management service.
 
+Setup First Eagle Investment Management as SAML Service Provider
+------------------------------------------------------------------------------------------------------------
+
+Refer to First Eagle Investment Management documentation to set it up SAML Service Provider.
+
 Test the Configuration
 ----------------------
 

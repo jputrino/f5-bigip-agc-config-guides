@@ -67,9 +67,10 @@ Deploy the Configuration
 #. Select the SAML SP object created by your workflow, and click :guilabel:`Export Metadata`.
 #. Use the SAML metadata file to configure the Service Provider configuraton in the external Identity Provider Administration console.
 
-Setup SecureAuth as Identity Provider
--------------------------------------------------------------
+Setup SecureAuth as SAML Identity Provider
+-----------------------------------------------------------------
 
+Refer to SecureAuth documentation to set it up as SAML Identity Provider.
 
 Test the configuration
 ----------------------

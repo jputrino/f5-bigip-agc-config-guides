@@ -58,6 +58,11 @@ Deploy the Configuration
 #. Select the SAML SSO object created for for PILtools, and click :guilabel:`Export Metadata`.
 #. Use the exported IdP SAML Metadata to configure the IdP Provider configuration in the PILtools service.
 
+Setup PILtools as SAML Service Provider
+------------------------------------------------------------------------------------------------------------
+
+Refer to PILtools documentation to set it up SAML Service Provider.
+
 Test the Configuration
 ----------------------
 
