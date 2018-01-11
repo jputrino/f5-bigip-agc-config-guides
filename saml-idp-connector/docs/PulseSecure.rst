@@ -29,7 +29,7 @@ IDP Connector Specific Properties
 ---------------------------------
 
 To configure PulseSecure provide following inputs:
-	- :guilabel:`IDP Hostname` : Provide the hostname of your Identity Provider. For eg- test.example.com or test.example.com:port
+	- :guilabel:`IDP Hostname` : Provide the hostname of your Identity Provider. For example, test.example.com or test.example.com:port.
 
 Advanced Connector Settings
 ---------------------------

@@ -29,7 +29,7 @@ IDP Connector Specific Properties
 ---------------------------------
 
 To configure Azure AD provide following inputs:
-	- :guilabel:`Tenant ID` : Provide the tenant ID. For eg, Azure AD sets the SSO URI to https://login.windows.net/tenantID/saml2, where tenantID is the Azure AD tenant.
+	- :guilabel:`Tenant ID` : Provide the tenant ID. For example, Azure AD sets the SSO URI to https://login.windows.net/tenantID/saml2, where tenantID is the Azure AD tenant.
 
 Advanced Connector Settings
 ---------------------------

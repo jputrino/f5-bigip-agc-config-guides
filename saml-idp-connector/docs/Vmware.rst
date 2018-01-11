@@ -29,7 +29,7 @@ IDP Connector Specific Properties
 ---------------------------------
 
 To configure Vmware provide following inputs:
-	- :guilabel:`IdP Hostname` : Provide the hostname of your Vmware Identity Manager. For eg- test.example.com or test.example.com:port
+	- :guilabel:`IdP Hostname` : Provide the hostname of your Vmware Identity Manager. For example, test.example.com or test.example.com:port.
 
 Advanced Connector Settings
 ---------------------------

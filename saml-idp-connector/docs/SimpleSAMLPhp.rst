@@ -29,7 +29,7 @@ IDP Connector Specific Properties
 ---------------------------------
 
 To configure SimpleSAMLPhp provide following inputs:
-	- :guilabel:`IDP Hostname or IP Address` : Provide the hostname or ipaddress:port of the IDP.
+	- :guilabel:`IDP Hostname or IP Address` : Provide the hostname, hostname and port, or IP address and port of the IdP.
 
 Advanced Connector Settings
 ---------------------------

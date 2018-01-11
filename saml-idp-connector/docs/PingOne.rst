@@ -30,7 +30,7 @@ IDP Connector Specific Properties
 
 To configure PingOne provide following inputs:
 	- :guilabel:`Entity Id` : Provide the entity id
-	- :guilabel:`IdP ID` : Provide the IdP ID from the \'Initiate Single Sign - on URL \' in PingOne.For eg - https: //sso.connect.pingidentity.com/sso/idp/SSO.saml2?idpid=testIdp then testIdp is idpId
+	- :guilabel:`IdP ID` : Provide the IdP ID from the \'Initiate Single Sign - on URL \' in PingOne. For example, if the URL is https: //sso.connect.pingidentity.com/sso/idp/SSO.saml2?idpid=testIdp then the iDP ID is testIdp.
 
 Advanced Connector Settings
 ---------------------------

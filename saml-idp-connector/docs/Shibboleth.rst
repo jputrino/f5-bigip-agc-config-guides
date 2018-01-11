@@ -29,10 +29,10 @@ IDP Connector Specific Properties
 ---------------------------------
 
 To configure Shibboleth provide following inputs:
-	- :guilabel:`IdP Hostname` : Provide your IDP hostname. For eg- test.example.com or test.example.com:port
+	- :guilabel:`IdP Hostname` : Provide your IdP hostname. For example, test.example.com or test.example.com:port
 	- :guilabel:`SSO Binding` : Select Redirect / Post
-	- :guilabel:`Scheme` : Select the protocol. If the scheme is https, then configure Server SSL Profile.
-	- :guilabel:`Entity ID Scheme` : Select the protocol for Entity ID.
+	- :guilabel:`Scheme` : Select the protocol. If the scheme is https, configure the Server SSL Profile.
+	- :guilabel:`Entity ID Scheme` : Select the protocol for the Entity ID.
 
 Advanced Connector Settings
 ---------------------------
