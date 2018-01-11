@@ -30,7 +30,7 @@ IDP Connector Specific Properties
 
 To configure SecureAuth provide following inputs:
 	- :guilabel:`Entity ID (SAML Issuer)` : Provide the entity ID.
-	- :guilabel:`Single Sign-on Service URL` : Set the URL to the Fully Qualified Domain Name (FQDN) of the SecureAuth IdP appliance followed by the realm number of the integration and secureauth.aspx. For eg- https://secureauth.company.com/secureauth12/secureauth.aspx.
+	- :guilabel:`Single Sign-on Service URL` : Specify the Fully Qualified Domain Name (FQDN) of the SecureAuth IdP appliance followed by the realm number of the integration and secureauth.aspx. For example, https://secureauth.company.com/secureauth12/secureauth.aspx.
 
 Advanced Connector Settings
 ---------------------------

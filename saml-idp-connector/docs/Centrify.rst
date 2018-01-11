@@ -29,8 +29,8 @@ IDP Connector Specific Properties
 ---------------------------------
 
 To configure Centrify provide following inputs:
-	- :guilabel:`SSO URL` : Provide the SSO URL configured in Centrify. The URL will look like - https://abcd0100.my.centrify.com/applogin/appKey/1234abcde-51c9-461c-a3bf-1234abcde/customerId/abcd0100
-	- :guilabel:`Entity ID / SAML Issuer URL` : Provide the Issuer URL configured in Centrify. The entity ID will have a format like https://cloud.centrify.com/SAML/appspecificName.
+	- :guilabel:`SSO URL` : Provide the SSO URL configured in Centrify. The URL should be in a format like this example: https://abcd0100.my.centrify.com/applogin/appKey/1234abcde-51c9-461c-a3bf-1234abcde/customerId/abcd0100
+	- :guilabel:`Entity ID / SAML Issuer URL` : Provide the Issuer URL configured in Centrify. The entity ID should be in the format https://cloud.centrify.com/SAML/appspecificName.
 
 Advanced Connector Settings
 ---------------------------

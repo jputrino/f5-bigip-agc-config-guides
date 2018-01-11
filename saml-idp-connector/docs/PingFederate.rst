@@ -29,7 +29,7 @@ IDP Connector Specific Properties
 ---------------------------------
 
 To configure Ping Federate provide following inputs:
-	- :guilabel:`IdP Hostname` : Provide the hostname of your Identity Provider. For eg- test.example.com or test.example.com:port
+	- :guilabel:`IdP Hostname` : Provide the hostname of your Identity Provider. For example, test.example.com or test.example.com:port.
 	- :guilabel:`IdP Entityid` : Provide the entity ID.
 
 Advanced Connector Settings

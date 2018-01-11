@@ -29,7 +29,7 @@ IDP Connector Specific Properties
 ---------------------------------
 
 To configure Google Suite provide following inputs:
-	- :guilabel:`IDP Identifier` : Provide the IDP identifier from the Google SSO URL. For eg - If SSO URL is https://accounts.google.com/o/saml2?idpid=abcdefg, then the IDP id is abcdefg
+	- :guilabel:`IDP Identifier` : Provide the IDP identifier from the Google SSO URL. For example, if the SSO URL is https://accounts.google.com/o/saml2?idpid=abcdefg, then the IDP id is abcdefg
 
 Advanced Connector Settings
 ---------------------------

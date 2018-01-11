@@ -29,9 +29,9 @@ IDP Connector Specific Properties
 ---------------------------------
 
 To configure onelogin provide following inputs:
-	- :guilabel:`Connector ID` : Provide the connector id from onelogin SSO URL. For eg - If the SSO URL is https://company.onelogin.com/trust/saml2/http-redirect/sso/123456, then 123456 is the connector id.
+	- :guilabel:`Connector ID` : Provide the connector id from the OneLogin SSO URL. For example, if the SSO URL is https://company.onelogin.com/trust/saml2/http-redirect/sso/123456, then 123456 is the connector ID.
 	- :guilabel:`Single Sign-on Service Binding` : Select the SSO binding
-	- :guilabel:`Application Connector Name` : Provide the connector name from the onelogin SSO URL. For eg - If the SSO URL is https://company.onelogin.com/trust/saml2/http-redirect/sso/123456, then company is the application connector name.
+	- :guilabel:`Application Connector Name` : Provide the connector name from the OneLogin SSO URL. For example, if the SSO URL is https://company.onelogin.com/trust/saml2/http-redirect/sso/123456, then company is the application connector name.
 
 Advanced Connector Settings
 ---------------------------
