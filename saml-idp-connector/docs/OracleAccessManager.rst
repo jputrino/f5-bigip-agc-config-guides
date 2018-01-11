@@ -29,7 +29,7 @@ IDP Connector Specific Properties
 ---------------------------------
 
 To configure Oracle Access Manager provide following inputs:
-	- :guilabel:`Domain Name` : Provide the domain name of your IDP from the SSO URL. For eg - If URI is https://example.test.com/oamfed/idp/samlv20, then domain name is example.test.com
+	- :guilabel:`Domain Name` : Provide the domain name of your IDP from the SSO URL. For example, if the URI is https://example.test.com/oamfed/idp/samlv20, then the domain name is example.test.com
 
 Advanced Connector Settings
 ---------------------------

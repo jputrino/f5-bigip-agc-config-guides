@@ -29,7 +29,7 @@ IDP Connector Specific Properties
 ---------------------------------
 
 To configure NetIQ provide following inputs:
-	- :guilabel:`IDP Hostname` : Provide the hostname of the Identity Provider. For eg- test.example.com or test.example.com:port
+	- :guilabel:`IDP Hostname` : Provide the hostname of the Identity Provider. Forexample, test.example.com or test.example.com:port
 
 Advanced Connector Settings
 ---------------------------

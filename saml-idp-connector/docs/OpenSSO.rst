@@ -29,8 +29,8 @@ IDP Connector Specific Properties
 ---------------------------------
 
 To configure Open SSO provide following inputs:
-	- :guilabel:`IdP Hostname` : Provide the hostname of your IDP
-	- :guilabel:`Entity ID Scheme` : Select the protocol for Entity ID.
+	- :guilabel:`IdP Hostname` : Provide the hostname of your IDP.
+	- :guilabel:`Entity ID Scheme` : Select the protocol for the Entity ID.
 	- :guilabel:`Scheme` : Select the protocol.
 
 Advanced Connector Settings
