@@ -31,7 +31,7 @@ IDP Connector Specific Properties
 To configure Microsoft ADFS provide following inputs:
 	- :guilabel:`IdP Hostname` : Provide the hostname of your Identity Provider. For example, test.example.com or test.example.com:port.
 	- :guilabel:`Entity ID Scheme` : Select the protocol for the Entity ID.
-	- :guilabel:`Scheme` : Select the protocol. If the scheme is https, configure the Server SSL Profile.
+	- :guilabel:`Scheme` : Select the protocol. <code>If the scheme is https, configure the Server SSL Profile.</code>
 
 Advanced Connector Settings
 ---------------------------
