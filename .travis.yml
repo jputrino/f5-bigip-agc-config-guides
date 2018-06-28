@@ -1,13 +1,12 @@
 sudo: required
-language:
-- python
 services:
 - docker
 # Pull container image from Docker Hub
 before_install:
 - docker pull f5devcentral/containthedocs
 # Skip requirements installation; packages are already in containthedocs
-install: true
+install: 
+- pip install awscli --upgrade --user
 # Test docs build, grammar, and links
 script:
 - make docker-testdocs
@@ -20,3 +19,5 @@ deploy:
     repo: f5devcentral/f5-bigip-agc-config-guides
   script:
   - ./scripts/deploy-docs.sh publish-product-docs-to-prod agc v3.0
+  - aws cloudfront create-invalidation --distribution-id $AWS_DIST_ID --paths /products/agc/v3.0
+  
