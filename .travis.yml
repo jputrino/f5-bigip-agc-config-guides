@@ -19,4 +19,4 @@ deploy:
     branch: 3.0
     repo: f5devcentral/f5-bigip-agc-config-guides
   script:
-  - ./scripts/deploy-docs.sh publish-product-docs-to-prod agc v3.0
+  - ./scripts/deploy-docs.sh 
