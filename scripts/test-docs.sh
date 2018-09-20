@@ -1,7 +1,21 @@
 #!/usr/bin/env bash
-# Test docs build, grammar, and links
-# can be run standalone or with docker-docs.sh
+# Test docs build, grammar, and links in a docker container
 
+set -e
+
+: ${DOC_IMG:=f5devcentral/containthedocs:latest}
+
+RUN_ARGS=( \
+  --rm
+  -i
+  -v $PWD:/wkdir
+  ${DOCKER_RUN_ARGS}
+)
+
+# Run the container using the provided args
+# DO NOT SET -x BEFORE THIS, WE NEED TO KEEP THE CREDENTIALS OUT OF THE LOGS
+docker run "${RUN_ARGS[@]}" ${DOC_IMG} /bin/sh -s <<EOF
+set -x
 set -e
 
 echo -e "Building docs with Sphinx ... \n"
@@ -10,13 +24,8 @@ make docs
 echo -e "Checking links\n"
 make linkcheck || true
 
-echo -e "Renaming doc files using camel-case for grammar check\n"
-set -x
-# Rename doc files using camel-case (required for write-good grammar check)
-rename -e 'y/\ /_/' source/saml-idp-connector/*.rst
-rename -e 'y/\ /_/' source/saml-saas-applications/*.rst
-
 echo "Checking grammar and style"
 
-write-good `find docs/source -iname '*.rst'` --passive --so --no-illusion --thereIs --cliches
+vale --glob='*.{md,rst}' . 
 
+EOF

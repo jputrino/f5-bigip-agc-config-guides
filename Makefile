@@ -58,9 +58,3 @@ docker-livedocs:
 	rm -rf $(BUILDDIR)
 	DOCKER_RUN_ARGS="-p 127.0.0.1:8000:8000" \
 		./scripts/docker-docs.sh make livedocs
-
-# run docs quality tests in a docker container
-.PHONY: docker-testdocs
-docker-testdocs:
-	rm -rf $(BUILDDIR)
-	./scripts/docker-docs.sh ./scripts/test-docs.sh
