@@ -26,6 +26,6 @@ make linkcheck || true
 
 echo "Checking grammar and style"
 
-vale --glob='*.{md,rst}' . 
+vale --glob='*.{md,rst}' . || true
 
 EOF
